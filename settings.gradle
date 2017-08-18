@@ -1,1 +1,1 @@
-include ':app', ':background-execution-limits'
+include ':app', ':background-execution-limits', ':KeyboardNavigationSample', ':AutofillSample'

@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AutofillSample" />
+            <option value="$PROJECT_DIR$/KeyboardNavigationSample" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/background-execution-limits" />
           </set>
